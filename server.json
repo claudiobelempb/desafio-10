@@ -1,0 +1,44 @@
+{
+  "foods": [
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Ao molho italiano",
+      "price": "19,90",
+      "description": "Um pratro de comida gostoso",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Veggie",
+      "price": "21.90",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Ao molho italiano 2",
+      "price": "19,90",
+      "description": "Um pratro de comida gostoso",
+      "available": true,
+      "id": 6
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Ao molho italiano 2",
+      "price": "19,99",
+      "description": "Um pratro de comida gostoso",
+      "available": true,
+      "id": 7
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Ao molho italiano ",
+      "price": "20,00",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia",
+      "available": false,
+      "id": 8
+    }
+  ]
+}
